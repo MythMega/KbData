@@ -1,0 +1,242 @@
+[
+    {
+        "Name": "Angel.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Angel.png"
+    },
+    {
+        "Name": "Animal.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Animal.png"
+    },
+    {
+        "Name": "Artist.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Artist.png"
+    },
+    {
+        "Name": "Backdrop.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Backdrop.png"
+    },
+    {
+        "Name": "Balloon.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Balloon.png"
+    },
+    {
+        "Name": "Beam.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Beam.png"
+    },
+    {
+        "Name": "Bell.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Bell.png"
+    },
+    {
+        "Name": "Bomb.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Bomb.png"
+    },
+    {
+        "Name": "Bubble.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Bubble.png"
+    },
+    {
+        "Name": "Burning.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Burning.png"
+    },
+    {
+        "Name": "Chara_beetle.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Chara_beetle.png"
+    },
+    {
+        "Name": "Circus.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Circus.png"
+    },
+    {
+        "Name": "Cleaning.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Cleaning.png"
+    },
+    {
+        "Name": "Copy.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Copy.png"
+    },
+    {
+        "Name": "Crash.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Crash.png"
+    },
+    {
+        "Name": "Cutter.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Cutter.png"
+    },
+    {
+        "Name": "Doctor.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Doctor.png"
+    },
+    {
+        "Name": "Drill.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Drill.png"
+    },
+    {
+        "Name": "Fighter.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Fighter.png"
+    },
+    {
+        "Name": "Fire.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Fire.png"
+    },
+    {
+        "Name": "Freeze.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Freeze.png"
+    },
+    {
+        "Name": "Ghost.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Ghost.png"
+    },
+    {
+        "Name": "Hammer.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Hammer.png"
+    },
+    {
+        "Name": "HiJump.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/HiJump.png"
+    },
+    {
+        "Name": "Ice.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Ice.png"
+    },
+    {
+        "Name": "Jelly.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Jelly.png"
+    },
+    {
+        "Name": "Jet_Model.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Jet_Model.png"
+    },
+    {
+        "Name": "Kirby.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Kirby.png"
+    },
+    {
+        "Name": "Laser.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Laser.png"
+    },
+    {
+        "Name": "Leaf.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Leaf.png"
+    },
+    {
+        "Name": "Magic.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Magic.png"
+    },
+    {
+        "Name": "Mecha.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Mecha.png"
+    },
+    {
+        "Name": "Metal.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Metal.png"
+    },
+    {
+        "Name": "Mirror.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Mirror.png"
+    },
+    {
+        "Name": "Missile.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Missile.png"
+    },
+    {
+        "Name": "Needle.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Needle.png"
+    },
+    {
+        "Name": "Ninja.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Ninja.png"
+    },
+    {
+        "Name": "Parasol.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Parasol.png"
+    },
+    {
+        "Name": "Plasma.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Plasma.png"
+    },
+    {
+        "Name": "Poison.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Poison.png"
+    },
+    {
+        "Name": "Ranger.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Ranger.png"
+    },
+    {
+        "Name": "Sand.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Sand.png"
+    },
+    {
+        "Name": "Sleep.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Sleep.png"
+    },
+    {
+        "Name": "Smash.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Smash.png"
+    },
+    {
+        "Name": "Spark.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Spark.png"
+    },
+    {
+        "Name": "Spear.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Spear.png"
+    },
+    {
+        "Name": "Spider.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Spider.png"
+    },
+    {
+        "Name": "Staff.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Staff.png"
+    },
+    {
+        "Name": "Stone.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Stone.png"
+    },
+    {
+        "Name": "Sword.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Sword.png"
+    },
+    {
+        "Name": "Throw.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Throw.png"
+    },
+    {
+        "Name": "Tornado.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Tornado.png"
+    },
+    {
+        "Name": "TripleStar.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/TripleStar.png"
+    },
+    {
+        "Name": "UFO.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/UFO.png"
+    },
+    {
+        "Name": "Water.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Water.png"
+    },
+    {
+        "Name": "Wheel.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Wheel.png"
+    },
+    {
+        "Name": "Whip.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Whip.png"
+    },
+    {
+        "Name": "Wing.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Wing.png"
+    },
+    {
+        "Name": "Wrestler.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Wrestler.png"
+    },
+    {
+        "Name": "Yo-Yo.png",
+        "Sprite": "https://raw.githubusercontent.com/MythMega/KbData/refs/heads/master/Sprite/Yo-Yo.png"
+    }
+]
